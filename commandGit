@@ -1,0 +1,6 @@
+#Comandos git
+git init
+git add filename
+git commit -m "adding files"
+git remote add origin https://github.com/gruital/testFormacion
+git push -u origin master
